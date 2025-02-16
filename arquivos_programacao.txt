@@ -1,3 +1,0 @@
-background.js
-content.js
-popub.html
